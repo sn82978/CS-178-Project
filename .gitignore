@@ -1,2 +1,5 @@
 .venv
 DATA
+1.PreProcessing/DATA
+1.PreProcessing/TRAINING_DATA
+*.DS_Store
