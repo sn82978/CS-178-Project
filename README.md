@@ -4,7 +4,7 @@
 https://docs.google.com/spreadsheets/d/1cYd9hqx69cYW1G64fG0Rviz9qy-kVvSSSYaAkv2LLVg/edit?gid=0#gid=0
 
 ## Goal
-Create a model to predict the toxicity of a comment across 5 different levels (toxic, severe-toxic, obscene, identity-hate, and insult)
+Create a model to predict the toxicity of a comment across 5 different levels (toxic, severe-toxic, obscene, identity-hate, insult, and threat)
 
 ## Steps
 
