@@ -8,6 +8,8 @@ Create a model to predict the toxicity of a comment across 5 different levels (t
 
 ## Steps
 
+# THE TODO LIST ON SHEET IS MOST UPDATED
+
 1. Pre-processing Step (Shreya)
 
     a. Looking at data (making graphs and visualization of features and pred. class)
@@ -38,7 +40,7 @@ Create a model to predict the toxicity of a comment across 5 different levels (t
 
     b. Each of these models will be trained on the vectorized data with the best performance.
 
-4. Best Model (Gaurav or Shreya)
+4. Best Model (Everybody)
 
     a. Select the model that does the best from the prev. step and tune it.
     
